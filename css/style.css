@@ -40,6 +40,15 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
+  pre {
+    border:1px solid #343a40;
+    background-color:#F1F1F1;
+    padding:8px;
+    margin:1px;
+    color:#0150c7;
+    overflow:auto
+  }
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
